@@ -48,4 +48,4 @@ Este repositorio está orientado a:
 
 ## 📬 Contacto
 
-Si deseas más información o quieres darme feedback, puedes escribirme por GitHub o a través de LinkedIn (agrega aquí tu link si quieres).
+Si deseas más información o quieres darme feedback, puedes escribirme por [GitHub](https://github.com/C-Rocuant) o a través de [LinkedIn](https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/).
